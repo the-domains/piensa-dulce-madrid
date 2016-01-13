@@ -1,0 +1,28 @@
+name: Piensa Dulce Madrid
+favicon: null
+layout_spectrum: 0.9479224691167474
+typography_spectrum: 0.6464037531986833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8003463025670499
+  lightness: 0.770120186265558
+  saturation: 0.4629865987226367
+  rhythmicContrast: 0.28806317993439734
+purpose: []
